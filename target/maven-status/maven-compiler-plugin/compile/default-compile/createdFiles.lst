@@ -1,0 +1,11 @@
+OrderShipping\config\kafka\KafkaProcessor.class
+OrderShipping\MyPageRepository.class
+OrderShipping\MyPage.class
+OrderShipping\AbstractEvent$1.class
+OrderShipping\PolicyHandler.class
+OrderShipping\MyPageViewHandler.class
+OrderShipping\Ordered.class
+OrderShipping\DeliveryCanceled.class
+OrderShipping\Shipped.class
+OrderShipping\AbstractEvent.class
+OrderShipping\CustomerCenterApplication.class
